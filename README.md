@@ -23,12 +23,6 @@ Using the terminal, install the dependencies by running: `pod install`.
 Open the `MyENS.xcworkspace` using Xcode.
 
 
-## Built with
-
-- [Web3Swift](https://github.com/matterinc/web3swift)
-- [Infura](https://infura.io/dashboard)
-
-
 ## Future work and features
 
 Some features that I'd like to include in the future:
